@@ -10,6 +10,9 @@ Java Email Application
 
 ## 2. Tech Stack:
 
+- Java
+- Java JSP / Servlet
+- MySQL
 
 ## 3. What is the MVP?
 
