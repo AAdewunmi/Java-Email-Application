@@ -7,12 +7,13 @@ Java Email Application
 
 ## 1. What is the project?
 
+Using JavaMail API to send email from Java applications with no authentication.
 
 ## 2. Tech Stack:
 
-- Java
-- Java JSP / Servlet
-- MySQL
+- Java 9
+- JavaMail API
+- SMTP server
 
 ## 3. What is the MVP?
 
