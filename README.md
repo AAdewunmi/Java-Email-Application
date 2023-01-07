@@ -11,14 +11,14 @@ Using JavaMail API to send emails using SMTP from Java applications:
 
 1. without authentication, 
 2. with TLS Authentication,
-3. with SSL Authentication
+3. with SSL Authentication and Email attachment
 
 
 ## 2. Tech Stack:
 
 - Java 9
 - JavaMail API
-- SMTP server
+- Gmail SMTP server
 
 ## 3. What is the MVP?
 
