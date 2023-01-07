@@ -1,5 +1,9 @@
 package com.application;
 
+/**
+ * Send Mail in Java using SMTP without authentication
+ */
+
 import javax.mail.Session;
 import java.util.Properties;
 
