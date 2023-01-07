@@ -7,7 +7,10 @@ Java Email Application
 
 ## 1. What is the project?
 
-Using JavaMail API to send email from Java applications with no authentication.
+Using JavaMail API to send emails using SMTP from Java applications:
+
+1. without authentication, 
+
 
 ## 2. Tech Stack:
 
