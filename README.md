@@ -11,7 +11,7 @@ Using JavaMail API to send emails using SMTP from Java applications:
 
 1. without authentication, 
 2. with TLS Authentication,
-3. with SSL Authentication and Email attachment
+3. with SSL Authentication and Email attachment and image
 
 
 ## 2. Tech Stack:

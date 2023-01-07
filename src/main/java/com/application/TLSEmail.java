@@ -7,6 +7,7 @@ import java.util.Properties;
 
 /**
  * Send Email in Java SMTP with TLS Authentication
+ * With attachment and image
  */
 public class TLSEmail {
 
